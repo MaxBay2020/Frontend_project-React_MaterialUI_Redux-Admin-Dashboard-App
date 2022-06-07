@@ -1,0 +1,57 @@
+.app.dark {
+  background: #111;
+  color: rgb(156, 156, 156);
+}
+.app.dark .chartGrid {
+  stroke: rgba(228, 228, 228, 0.219);
+}
+.app.dark .table {
+  background: #111;
+}
+.app.dark .table .tableCell {
+  color: gray;
+}
+.app.dark .navbar {
+  color: #999;
+  border-color: #333;
+}
+.app.dark .navbar .search {
+  border-color: gray;
+}
+.app.dark .sidebar {
+  background: #111;
+  border-color: #333;
+}
+.app.dark .sidebar .top .logo {
+  color: #7496d0;
+}
+.app.dark .sidebar hr {
+  border-color: #333;
+}
+.app.dark .sidebar ul li:hover {
+  background: #333;
+}
+.app.dark .sidebar ul li .icon {
+  color: #7496d0;
+}
+.app.dark .datatable .datagrid {
+  color: gray;
+  border: none;
+}
+.app.dark .datatable .datagrid .viewButton, .app.dark .datatable .datagrid .deleteButton, .app.dark .datatable .datagrid .cellWithStatus {
+  color: gray;
+  border: none;
+}
+.app.dark .datatable .datagrid .viewButton:hover {
+  background: #526b95;
+  color: #eaeaea;
+}
+.app.dark .datatable .datagrid .deleteButton:hover {
+  background: #8d404f;
+  color: #eaeaea;
+}
+.app.dark input {
+  background: transparent;
+}
+
+/*# sourceMappingURL=dark.css.map */
